@@ -14,8 +14,7 @@ void Sum_2(int* val_1, int* val_2, int* val_3)
     (*val_3)--;
 }
 
-int main()
-{
+int main(){
     int a = 0;
     cout << a << endl;
 

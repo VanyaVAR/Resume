@@ -1,0 +1,14 @@
+D:\my-project\visualka\lab1\lab1\lab1\bin\Debug\net8.0\lab1.exe
+D:\my-project\visualka\lab1\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+D:\my-project\visualka\lab1\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+D:\my-project\visualka\lab1\lab1\lab1\bin\Debug\net8.0\lab1.dll
+D:\my-project\visualka\lab1\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.dll
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+D:\my-project\visualka\lab1\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
